@@ -1,0 +1,4 @@
+{
+    "digitalsign" : "12345",
+    "db" : "mongodb://localhost/Vidly_tests"
+}
